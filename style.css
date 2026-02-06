@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+
+h1 {
+    color: #c63c73;
+    text-align: center;
+    font-family: "Courgette", cursive;
+}
+ 
+
+body {
+    background-color: #f059bc;
+}
+
+.cats {
+    max-width: 200px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answerbuttons {
+    text-align: center;
+    word-spacing: 20px;
+}
+
+.links {
+    text-decoration: none;
+    color: #c63c73;
+    padding: 15px 26px;
+    border: 3px solid #c63c73;
+    border-radius: 5px;
+    background-color: #F694C1;
+    font-family: "Courgette", cursive;
+}
+
+a:hover {
+    color: red;
+    border: 3px solid red;
+}
